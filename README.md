@@ -179,6 +179,22 @@ TensorFlow • Keras • Flask • React
 
 ---
 
+## 📦 Product Catalog Management System
+
+### Tech Stack
+
+Java • Spring Boot • Spring Data JPA • PostgreSQL
+
+### Features
+
+- Product CRUD Operations
+- Price & Stock Management
+- Pagination & Dynamic Sorting
+- Category & Price Range Filtering
+- Soft Deletion & Exception Handling
+
+---
+
 ## 📚 Java DSA Repository
 
 ### Topics Covered
