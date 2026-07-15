@@ -163,22 +163,6 @@ Spring Boot • React • MySQL
 
 ---
 
-## 🔒 Phishing URL Detection System
-
-### Tech Stack
-
-React • FastAPI • Python • Random Forest
-
-### Features
-
-- URL Classification
-- Feature Extraction
-- Brand Similarity Detection
-- Security Score
-- Threat Analysis
-
----
-
 ## 🖼 AI vs Human Image Detection
 
 ### Tech Stack
