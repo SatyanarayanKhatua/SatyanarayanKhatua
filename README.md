@@ -5,7 +5,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Satyanarayan Khatua</h1> -->
 
 <h3 align="center">
-Java Full Stack Developer | Spring Boot | React | REST APIs | MySQL | DSA Enthusiast
+Java Full Stack Developer | Spring Boot | React | REST APIs | MySQL | PostgresSQL | DSA Enthusiast
 </h3>
 
 <p align="center">
